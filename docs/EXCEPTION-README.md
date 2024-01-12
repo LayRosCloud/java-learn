@@ -1,0 +1,1 @@
+## Исключения (try..catch) and (try-with-resources)
