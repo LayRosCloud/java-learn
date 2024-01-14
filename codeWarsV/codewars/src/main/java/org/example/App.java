@@ -1,8 +1,5 @@
 package org.example;
 
-import org.example.strings.A;
-import org.example.strings.Subject;
-
 /**
  * Hello world!
  *
