@@ -27,3 +27,13 @@ int number = 1;
 number++; //инкремент number = number + 1;
 number--; //декремент number = number - 1;
 ```
+
+Так же есть оператор, который находит остаток от деления 
+
+**Пример кода:**
+```java
+int number = 10;
+number = number % 2; // 0
+number = 10;
+number = number % 3; // 1
+```
